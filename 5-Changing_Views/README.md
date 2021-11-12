@@ -3,10 +3,10 @@
 This project generates a cube that is transformed by rotating it.
 
 You can use the keyboard key to do the following:
-- w -> Zoom-IN
-- s -> Zoom-OUT
-- a -> Move view up
-- d -> Move view down
+- w -> Move Forward
+- s -> Move Back
+- a -> Move Left
+- d -> Move Right
 - t -> Change to Top View
 - p -> Change to Perspective view
 - mouse -> Look around
