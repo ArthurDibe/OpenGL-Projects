@@ -14,19 +14,23 @@ Bellow you will find a picture or a video regarding the specific project, feel f
 ![crazy_triangles](https://user-images.githubusercontent.com/5942022/140950341-b7b614f9-c3dc-4ab6-b56b-193797893ac2.jpg)    
         
 
-- 3 - Square Translating:     
-https://user-images.githubusercontent.com/5942022/140975908-65e7a23d-1120-41aa-aaff-669f769cb71b.mp4    
+- 3 - Square Translating:      
+
+https://user-images.githubusercontent.com/5942022/140975908-65e7a23d-1120-41aa-aaff-669f769cb71b.mp4     
        
 
 - 4 - Turning 3D Cube:     
+
 https://user-images.githubusercontent.com/5942022/141161191-2fd2e8a5-297d-408f-bf44-7672525f61b4.mp4      
       
 
 - 5 - Changing Views:    
+
 https://user-images.githubusercontent.com/5942022/141534054-e18955ac-a8dd-4bc5-beca-8c9c5a8b2b75.mp4     
        
      
 - 6 - Collision:      
+
 https://user-images.githubusercontent.com/5942022/141873919-e3afedd8-e090-490e-a967-828d253af811.mp4      
        
        
