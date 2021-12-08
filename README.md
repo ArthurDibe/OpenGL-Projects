@@ -44,3 +44,9 @@ https://user-images.githubusercontent.com/5942022/141873919-e3afedd8-e090-490e-a
 ### 7 - Simple Game:      
  
 https://user-images.githubusercontent.com/5942022/142965145-e82616ec-df0d-4c1b-bc37-71e0b035053e.mp4     
+     
+<br>     
+     
+### 8 - AI Challenge - Computer vs. Computer:      
+ 
+https://user-images.githubusercontent.com/5942022/145287883-6fa88104-0d48-48c6-bcf4-f0f37b1d7c8a.mp4  
